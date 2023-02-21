@@ -1,2 +1,0 @@
-# simple-profile
-first project
